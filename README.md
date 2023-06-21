@@ -4,7 +4,7 @@
 **Arif-Islam-SZS-Bd-404/Arif-Islam-SZS-Bd-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+p
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Arif Islam</h1>
-<h3 align="center">A passionate frontend developer from bangladesj</h3>
+<h3 align="center">A passionate frontend developer from banglades</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arif-islam-szs-bd-404&label=Profile%20views&color=0e75b6&style=flat" alt="arif-islam-szs-bd-404" /> </p>
 
